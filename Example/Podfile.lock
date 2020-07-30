@@ -1,0 +1,16 @@
+PODS:
+  - CDSpecsKit (0.1.0)
+
+DEPENDENCIES:
+  - CDSpecsKit (from `../`)
+
+EXTERNAL SOURCES:
+  CDSpecsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CDSpecsKit: c96df741a2d2cd638a259f027689b0f05d37e0e6
+
+PODFILE CHECKSUM: f18d1ad0738a49b581df762f44952917abebc703
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_CDSpecsKit_Example {
+  umbrella header "Pods-CDSpecsKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

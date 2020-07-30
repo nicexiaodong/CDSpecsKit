@@ -1,0 +1,6 @@
+framework module CDSpecsKit {
+  umbrella header "CDSpecsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
